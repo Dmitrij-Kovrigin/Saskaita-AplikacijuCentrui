@@ -1,0 +1,10 @@
+.book-photo-form span {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.book-photo-form span button {
+    margin-top: 6px;
+    margin-right: 5px;
+}
